@@ -1,0 +1,5 @@
+
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÔÌòÿÿÿÿÿ8İ¹ıüú.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ŠèÔ¤8§ıú.

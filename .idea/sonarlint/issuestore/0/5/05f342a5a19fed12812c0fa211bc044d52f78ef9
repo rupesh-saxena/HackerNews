@@ -1,0 +1,7 @@
+
+H
+java:S11684"+Return an empty collection instead of null.(¥¹ï8ÉÒÆüú.
+
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Èèì§8ÉÒÆüú.
+v
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÊë¸8šÚüú.

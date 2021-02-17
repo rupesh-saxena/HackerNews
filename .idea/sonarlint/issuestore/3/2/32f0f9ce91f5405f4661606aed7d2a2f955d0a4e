@@ -1,0 +1,9 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(³ıƒ
+X
+java:S1444"6Make this "public static TOTAL_ITEM_COUNT" field final(âûÜØûÿÿÿÿ8¡•Áûú.
+~
+java:S1104"\Make TOTAL_ITEM_COUNT a static final constant or non-public and provide accessors if needed.(âûÜØûÿÿÿÿ8¡•Áûú.
+}
+java:S3008"[Rename this field "TOTAL_ITEM_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âûÜØûÿÿÿÿ8¡•Áûú.

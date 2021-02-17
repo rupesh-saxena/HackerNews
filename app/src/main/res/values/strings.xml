@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+    <string name="label_no_data">"No data found."</string>
+</resources>
