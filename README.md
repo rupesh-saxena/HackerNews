@@ -1,7 +1,7 @@
 # HackerNews
 ![alt text](https://github.com/rupesh-saxena/HackerNews/blob/master/layers.JPG?raw=true)
 
-# Project Covers the following points -
+# Project covers the following points -
 
 * MVVM architecture with View, View Models, Managers, Retrofit, Shared Preferences layers.
 * Live Data to notify data changes i.e. notify list.
